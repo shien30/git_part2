@@ -5,3 +5,8 @@ This is a simple Python Project
 1. Clone the repo using `git clone <repo_url>`
 2. `cd` in cloned repo
 3. Run `python3 greet.py` to view result
+
+## Contributors 
+They worked on this
+1. Shien Matilda
+2. Tabi Lizzy 
